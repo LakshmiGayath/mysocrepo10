@@ -1,1 +1,2 @@
 This is the first of new document
+This is the second of new document
